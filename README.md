@@ -1,6 +1,6 @@
 # Estore
 This is static E-commerce website
-It has folloeing pages:
+It has following pages:
 
 Index or Product page
 =====================
